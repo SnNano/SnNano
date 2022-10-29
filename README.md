@@ -35,6 +35,4 @@ I'm Nadia El Mourabiti a Web Developer <img src="https://media.giphy.com/media/W
 </div>
 
 
-### :fire: My Portfolio :
-<a href="https://www.elmourabiti.ml" target="_blank">Nadia El Mourabiti Portfolio</a>
 
